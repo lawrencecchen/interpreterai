@@ -1,7 +1,11 @@
 {
-  "name": "interpreterai",
+  "name": "codeagent",
+  "version": "0.0.1",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "dev": "todo"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

@@ -1,5 +1,5 @@
 [project]
-name = "interpreterai"
+name = "codeagent"
 version = "0.0.1"
 authors = [{ name = "Lawrence Chen", email = "lawrencechen2002@gmail.com" }]
 description = "Code interpreter/assistants API for any LLM"
@@ -12,5 +12,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/lawrencecchen/interpreterai"
-Issues = "https://github.com/lawrencecchen/interpreterai/issues"
+Homepage = "https://github.com/lawrencecchen/codeagent"
+Issues = "https://github.com/lawrencecchen/codeagent/issues"
