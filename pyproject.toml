@@ -1,5 +1,5 @@
 [project]
-name = "interpreter"
+name = "interpreterai"
 version = "0.0.1"
 authors = [{ name = "Lawrence Chen", email = "lawrencechen2002@gmail.com" }]
 description = "Code interpreter/assistants API for any LLM"
